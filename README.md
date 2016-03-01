@@ -1,4 +1,4 @@
-# Document-Analysis-for-the-Federalist-Papers
+# Document Analysis for the Federalist Papers
 
 I implemented an authorship attribution algorithm for the Federalist Papers dataset which contains historically important papers written by Hamilton and Madison, and I wanted to classify the author from the text. 
 
